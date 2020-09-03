@@ -1,0 +1,16 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+  }
+
+  .grid-item {
+    text-align: center;
+  }
+ 
+  .center {
+      text-align: center;
+  }
+ 
+  .bord {
+    border: 2px solid rgba(5, 5, 5, 0.8);
+  }
